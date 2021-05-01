@@ -1,0 +1,1 @@
+cat webcrawler/part-*|sort > out_q3.txt
